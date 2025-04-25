@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: fastapi-code-engine-by-aniket
+    env: docker
+    plan: free
+    region: oregon
